@@ -1,4 +1,4 @@
-### Welcome to Farah's Github! 🙋🏻‍♀️
+### Hello! My name is Farah. Thanks for visiting my Github! 🙋🏻‍♀️
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farahccino)](https://github.com/farahccino/github-readme-stats)
